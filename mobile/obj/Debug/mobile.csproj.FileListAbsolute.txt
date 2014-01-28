@@ -1,0 +1,36 @@
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\bin\Debug\mobile.exe.config
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\obj\Debug\mobile.csprojResolveAssemblyReference.cache
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\obj\Debug\mobile.Form1.resources
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\obj\Debug\mobile.Properties.Resources.resources
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\obj\Debug\mobile.csproj.GenerateResource.Cache
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\bin\Debug\mobile.exe
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\bin\Debug\mobile.pdb
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\obj\Debug\mobile.exe
+c:\users\мария\documents\visual studio 2012\Projects\mobile\mobile\obj\Debug\mobile.pdb
+C:\Users\Мария\Desktop\mobile\mobile\bin\Debug\mobile.exe.config
+C:\Users\Мария\Desktop\mobile\mobile\obj\Debug\mobile.exe
+C:\Users\Мария\Desktop\mobile\mobile\obj\Debug\mobile.pdb
+C:\Users\Мария\Desktop\mobile\mobile\bin\Debug\mobile.exe
+C:\Users\Мария\Desktop\mobile\mobile\bin\Debug\mobile.pdb
+C:\Users\Мария\Desktop\mobile\mobile\obj\Debug\mobile.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\mobile\mobile\obj\Debug\mobile.Form1.resources
+C:\Users\Мария\Desktop\mobile\mobile\obj\Debug\mobile.Properties.Resources.resources
+C:\Users\Мария\Desktop\mobile\mobile\obj\Debug\mobile.csproj.GenerateResource.Cache
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\bin\Debug\mobile.exe.config
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.exe
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.pdb
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\bin\Debug\mobile.exe
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\bin\Debug\mobile.pdb
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.Form1.resources
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.Properties.Resources.resources
+C:\Users\Мария\Desktop\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.csproj.GenerateResource.Cache
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\bin\Debug\mobile.exe.config
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.pdb
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\bin\Debug\mobile.exe
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\bin\Debug\mobile.pdb
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.csprojResolveAssemblyReference.cache
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.Form1.resources
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.Properties.Resources.resources
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.csproj.GenerateResource.Cache
+E:\MyProjects\мобильная разработка\тестовое задание - Маликова М. А\Исходный код\mobile\mobile\obj\Debug\mobile.exe
